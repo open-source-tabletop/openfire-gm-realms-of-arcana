@@ -1,5 +1,5 @@
-Realms of Arcana - Wood Elves Army List
-=======================================
+Realms of Arcana - The Woodland Realms
+======================================
 
 # Background
 
