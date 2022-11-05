@@ -32,11 +32,11 @@ Units in Realms of Arcana stay in base contact with each other at all times.
 
 ### Brigades
 
-Units that are in close proximity to friendly units gain a bonus to their **Command** attribute. Units in within 2 inches of 1 friendly unit gain +1 and units within 2 inches of 2 or more gain +2. In addition, when a unit is activated, you may attempt to activate one additional friendly unit within 2 inches. Before taking any actions with the first unit, the second unit takes a command test, if successful you may activate the second unit after you have finished activating the first unit.
+Units that are in close proximity to friendly units gain a bonus to their **Command** attribute. Units in within 2 inches of 1 friendly unit gain +1 and units within 2 inches of 2 or more gain +2.
 
 ## Rules
 
-### Breaking
+### Breaking From Combat
 
 Units that are below half strength, that is units which have less than half of their total hit points remaining, are at risk of breaking and running from the enemy. If a unit below half strength takes damage from an attack from a unit in assault range they must take a **Command Test**. If the unit fails it will flee from the enemy.
 
@@ -45,7 +45,3 @@ When a unit flees, the leader moves its full movement rate directly backwards, s
 ### Height and Shooting
 
 Units that are at a higher height level than their target gain an additional 4 inches to their maximum range when making a shooting attack for each height level they are above their target (up to a maximum of an additional 12 inches).
-
-### Suppression
-
-When a unit is the target of an attack and would take damage, the unit first takes extra stress levels instead of losing any Hit Points. If the unit cannot take any additional stress levels it takes damage as normal.
