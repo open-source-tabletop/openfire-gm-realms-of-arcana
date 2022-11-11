@@ -40,6 +40,10 @@ Units that are in close proximity to friendly units gain a bonus to their **Comm
 
 ## Rules
 
+### Regiment Combat
+
+TODO front model attacks, melee attacks, being attacked from the side or rear.
+
 ### Breaking From Combat
 
 TODO

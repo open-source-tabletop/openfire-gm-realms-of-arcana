@@ -25,6 +25,12 @@ The last race, the Onek are massive creatures twice the height of the Acoetzl. O
 
 The Old Ones, disappointed in their creation, easily struck down this rebellion and as punishment for their hubris they again altered the Onek. They dulled their thoughts, making them simple minded creatures, barely more than beasts of burden and weapons of war.
 
+# Special Rules
+
+## Cold-blooded
+
+This unit ignores any negative modifiers to their **Command** attribute.
+
 # Magic
 
 ## Lore of the Ancients
@@ -57,13 +63,63 @@ Re-roll 1s in melee one unit.
 
 ## Standard Units
 
-### Itz'oq Light Infantry
+### Saurian Light Infantry
 
-### Acoetzl Heavy Infantry
+| Model                   | MOV | SKL | DEF | CMD | HP  |
+| :---------------------- | :-: | :-: | :-: | :-: | :-: |
+| Saurian Light Infantry  |  6  |  8  |  8  |  7  | 12  |
+
+#### Configuration
+
+A Saurian Light Infantry unit consists of 2 or 3 Saurian Light Infantry models.
+
+Saurian Light Infantry are mounted on regiment bases.
+
+#### Equipment
+
+Saurian Light Infantry are equipped with Light Clubs and Dart Guns.
+
+#### Special Rules
+
+- Cold-blooded
+
+### Saurian Heavy Infantry
+
+| Model                   | MOV | SKL | DEF | CMD | HP  |
+| :---------------------- | :-: | :-: | :-: | :-: | :-: |
+| Saurian Heavy Infantry  |  5  |  7  |  6  |  7  | 16  |
+
+#### Configuration
+
+A Saurian Heavy Infantry unit consists of 2 or 3 Saurian Heavy Infantry models.
+
+#### Equipment
+
+Saurian Heavy Infantry are equipped with Heavy Clubs.
+
+#### Special Rules
+
+- Cold-blooded
 
 ### Raptor Cavalry
 
 ## Elite Units
+
+### Saurian Temple Guard
+
+| Model                | MOV | SKL | DEF | CMD | HP  |
+| :------------------- | :-: | :-: | :-: | :-: | :-: |
+| Saurian Temple Guard |  5  |  6  |  5  |  5  | 18  |
+
+#### Configuration
+
+#### Special Rules
+
+- Cold-blooded
+
+#### Equipment
+
+Saurian Temple Guard are equipped with Heavy Spears
 
 ### Pterosaur Riders
 
@@ -72,3 +128,15 @@ Re-roll 1s in melee one unit.
 ### Carnosaur Rider
 
 ### Ignosaur Handlers
+
+# Weapons
+
+| Ranged Weapon    | RNG | ATT | DMG | PRC | Special            |
+| :--------------- | :-: | :-: | :-: | :-: | :----------------- |
+| Dart Gun         | 8   | 10  | 1   | 0   |                    |
+
+| Melee Weapon     | RNG | ATT | DMG | PRC | Special            |
+| :--------------- | :-: | :-: | :-: | :-: | :----------------- |
+| Light Club       | 1   | 10  | 1   | 1   | Melee              |
+| Heavy Club       | 1   | 8   | 2   | 1   | Melee              |
+| Heavy Spear      | 1   | 10  | 2   | 2   | Melee              |
