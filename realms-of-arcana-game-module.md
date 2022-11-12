@@ -31,7 +31,7 @@ Realms of Arcana has 6 types of unit: Heroes, Regiments, Archers, Cavalry, Artil
 
 Units that are in close proximity to friendly units gain a bonus to their **Command** attribute. Units in base contact with one friendly unit gain +2 and units in base contact with 2 friendly units gain +4.
 
-### Arcs
+### Attacks and Arcs
 
 Unless otherwise specified all weapons may only target units in a model's front arc.
 
