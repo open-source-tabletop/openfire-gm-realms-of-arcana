@@ -65,29 +65,23 @@ Re-roll 1s in melee one unit.
 
 ### Saurian Light Infantry
 
-| Model                   | MOV | SKL | DEF | CMD | HP  |
-| :---------------------- | :-: | :-: | :-: | :-: | :-: |
-| Saurian Light Infantry  |  6  |  8  |  8  |  7  | 12  |
+| Model                   | MOV | SKL | DEF | CMD | HP  | Type     |
+| :---------------------- | :-: | :-: | :-: | :-: | :-: | :------- |
+| Saurian Light Infantry  | 6   | 8   | 6   | 7   | 12  | Regiment |
 
 #### Configuration
 
 A Saurian Light Infantry unit consists of 2 or 3 Saurian Light Infantry models.
 
-Saurian Light Infantry are mounted on regiment bases.
-
 #### Equipment
 
 Saurian Light Infantry are equipped with Light Clubs and Dart Guns.
 
-#### Special Rules
-
-- Cold-blooded
-
 ### Saurian Heavy Infantry
 
-| Model                   | MOV | SKL | DEF | CMD | HP  |
-| :---------------------- | :-: | :-: | :-: | :-: | :-: |
-| Saurian Heavy Infantry  |  5  |  7  |  6  |  7  | 16  |
+| Model                   | MOV | SKL | DEF | CMD | HP  | Type     |
+| :---------------------- | :-: | :-: | :-: | :-: | :-: | :------- |
+| Saurian Heavy Infantry  | 5   | 7   | 6   | 7   | 16  | Regiment |
 
 #### Configuration
 
@@ -97,25 +91,21 @@ A Saurian Heavy Infantry unit consists of 2 or 3 Saurian Heavy Infantry models.
 
 Saurian Heavy Infantry are equipped with Heavy Clubs.
 
-#### Special Rules
-
-- Cold-blooded
-
 ### Raptor Cavalry
+
+| Model          | MOV | SKL | DEF | CMD | HP  | Type     |
+| :------------- | :-: | :-: | :-: | :-: | :-: | :------- |
+| Raptor Cavalry | 10  | 7   | 5   | 5   | 20  | Cavalry  |
 
 ## Elite Units
 
 ### Saurian Temple Guard
 
-| Model                | MOV | SKL | DEF | CMD | HP  |
-| :------------------- | :-: | :-: | :-: | :-: | :-: |
-| Saurian Temple Guard |  5  |  6  |  5  |  5  | 18  |
+| Model                | MOV | SKL | DEF | CMD | HP  | Type     |
+| :------------------- | :-: | :-: | :-: | :-: | :-: | :------- |
+| Saurian Temple Guard | 5   | 6   | 5   | 5   | 18  | Regiment |
 
 #### Configuration
-
-#### Special Rules
-
-- Cold-blooded
 
 #### Equipment
 
@@ -123,20 +113,40 @@ Saurian Temple Guard are equipped with Heavy Spears
 
 ### Pterosaur Riders
 
-### Onek Brutes
+### Crocodilian Brutes
+
+| Model                | MOV | SKL | DEF | CMD | HP  | Type     |
+| :------------------- | :-: | :-: | :-: | :-: | :-: | :------- |
+| Crocodilian Brutes   | 5   | 7   | 4   | 4   | 22  | Regiment |
 
 ### Carnosaur Rider
 
-### Ignosaur Handlers
+| Model           | MOV | SKL | DEF | CMD | HP  | Type     |
+| :-------------- | :-: | :-: | :-: | :-: | :-: | :------- |
+| Carnosaur Rider | 12  | 5   | 5   | 5   | 20  | Cavalry  |
+
+#### Configuration
+
+A Carnosaur Rider unit consists of between 1 and 3 Carnosaur Riders.
+
+### Ignosaur Artillery
+
+| Model              | MOV | SKL | DEF | CMD | HP  | Type      |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-------- |
+| Ignosaur Artillery | 3   | 7   | 8   | 6   | 12  | Artillery |
+
+#### Equipment
 
 # Weapons
 
 | Ranged Weapon    | RNG | ATT | DMG | PRC | Special            |
 | :--------------- | :-: | :-: | :-: | :-: | :----------------- |
 | Dart Gun         | 8   | 10  | 1   | 0   |                    |
+| Ignosaur Fire    | 18  | 8   | 3   | 0   | Suppressing        |
 
 | Melee Weapon     | RNG | ATT | DMG | PRC | Special            |
 | :--------------- | :-: | :-: | :-: | :-: | :----------------- |
 | Light Club       | 1   | 10  | 1   | 1   | Melee              |
 | Heavy Club       | 1   | 8   | 2   | 1   | Melee              |
 | Heavy Spear      | 1   | 10  | 2   | 2   | Melee              |
+| Crocodilian Club | 1   | 6   | 3   | 3   | Melee, Rending (2) |
