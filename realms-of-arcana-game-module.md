@@ -13,7 +13,7 @@ Realms of Arcana is a game of massed fantasy battles, huge armies are represente
 
 ### Unit Types
 
-Realms of Arcana have 6 types of unit: Heroes, Regiments, Archers, Cavalry, Artillery, and Monsters. Each unit's type determines what base size the models will use. The sizes of bases given here are merely a suggestion, based around multiples of 20mm, you should feel free to change this to suit your miniatures - so long as everyone is using the same sizes.
+Realms of Arcana has 6 types of unit: Heroes, Regiments, Archers, Cavalry, Artillery, and Monsters. Each unit's type determines what base size the models will use. The sizes of bases given here are merely a suggestion, based around multiples of 20mm, you should feel free to change this to suit your miniatures - so long as everyone is using the same sizes.
 
 ### Bases and Formations
 
