@@ -7,7 +7,7 @@ You will need [the core rules for Open Fire](https://github.com/open-source-tabl
 
 ## Introduction
 
-Realms of Arcana is a game of massed fantasy battles, huge armies are represented by small scale miniatures around 10mm tall, with whole regiments of warriors typically on just a few bases.
+Realms of Arcana is a game of massed fantasy battles, large armies are represented by small scale miniatures around 10mm tall, with whole regiments of warriors typically on just a few bases.
 
 # Additional Rules and Definitions
 
