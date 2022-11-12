@@ -11,42 +11,35 @@ Realms of Arcana is a game of massed fantasy battles, huge armies are represente
 
 # Additional Rules and Definitions
 
-## Units
+### Unit Types
 
-### Bases
+Realms of Arcana have 6 types of unit: Heroes, Regiments, Archers, Cavalry, Artillery, and Monsters. Each unit's type determines what base size the models will use. The sizes of bases given here are merely a suggestion, based around multiples of 20mm, you should feel free to change this to suit your miniatures - so long as everyone is using the same sizes.
 
-All units in Realms of Arcana use one of 4 types of base, though you may modify this to suit any scale you wish to play at, what matters is that both players are using the same base sizes. Bases typically contain anywhere from 1 to 10 miniatures allowing players to play games with large armies without using a large number of models in the game.
+### Bases and Formations
 
-For example for most 10mm miniatures the following sizes are used:
+**Hero** units are single models mounted on 20mm square or round bases.
 
-- Hero bases are 20mm round bases.
-- Regiment bases are 40mm x 20mm with the models aligned to the long base edge.
-- Archer bases are also 40mm x 20mm with the models aligned to the long base edge.
-- Cavalry bases are 40mm x 20mm with the models aligned to the short base edge.
-- Monster bases are 40mm x 60mm with the models aligned to the short base edge.
+**Regiment** units are mounted on 20mm x 40mm rectangle bases with the models aligned along the long edge of the base. Regiment units must be lined up directly behind the unit leader with the long base edges touching to be in formation.
 
-### Formation
+**Archer** units are mounted on 20mm x 40mm rectangle bases with the models aligned along the long edge of the base. Archery units must be lined up to the side of the unit leader with the the short base edges touching to be in formation.
 
-Units in Realms of Arcana stay in base contact with each other at all times.
+**Cavalry** and **Artillery** units are mounted on 20mm x 40mm rectangle bases with the models aligned along the short edge of the base. Cavalry and Artillery units must be lined up to the side of the unit leader with the long base edges touching to be in formation.
 
-- Units with regiment bases are in formation when each base is lined up directly behind the leader.
-- Units with archer bases are in formation when each base forms a line along the short edges.
-- Units with cavalry bases are in formation when each base is aligned along the long base edge.
-- Units with hero on monster bases can only contain one model.
+**Monster** units are single models mounted on any suitable sized rectangle base preferably with each dimension being a multiple of 20mm and is aligned according to the facing of the miniature.
 
 ### Brigades
 
-Units that are in close proximity to friendly units gain a bonus to their **Command** attribute. Units within 1 inch of a friendly unit gain +1 and units within 1 inch of 2 or more gain +2.
+Units that are in close proximity to friendly units gain a bonus to their **Command** attribute. Units in base contact with one friendly unit gain +2 and units in base contact with 2 friendly units gain +4.
 
-## Rules
+### Arcs
 
-### Regiment Combat
+Unless otherwise specified all weapons may only target units in a model's front arc.
 
-TODO front model attacks, melee attacks, being attacked from the side or rear.
+**Regiment**, **Archer**, **Cavalry**, and **Artillery** units suffer -2 to their **Defence** attribute from attacks from their side arcs and -4 from attacks from their rear arcs.
 
-### Breaking From Combat
+### Stress and Breaking from Combat
 
-TODO
+Any unit that has 3 stress tokens on it is at risk of fleeing the battlefield. At the end of the round, if a unit would take a stress token but already has 3 it must immediately take a **Command** test. If it fails the test the unit begins to flee from the battlefield. The player immediately moves the unit its full Movement Rate directly backwards, then turns it to face in that direction before placing any other models in formation. If this movement cannot be completed due to terrain, other units, or the edge of the battlefield, the unit breaks and is destroyed.
 
 ### Height and Shooting
 
