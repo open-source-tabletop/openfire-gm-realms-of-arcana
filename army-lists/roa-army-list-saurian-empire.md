@@ -48,6 +48,14 @@ A Saurian Star Priest unit consists of 1 Saurian Star Priest model.
 
 A Saurian Star Priest is equipped with a Light Star Mace.
 
+#### Special Rules
+
+- Mage (9), Star-Priest
+
+#### Magic
+
+A Saurian Star Priest may choose one Spell from the Gift of the Gods Spell List.
+
 ## Standard Units
 
 ### Saurian Light Infantry
@@ -171,3 +179,8 @@ Re-roll 1s in melee one unit.
 
 ### Rite of Time
 
+# Special Rules
+
+## Star Priest
+
+This model may not attempt to Counterspell any enemy Spells and does not suffer any damage or stress when rolling a 1 to cast a spell.
