@@ -44,3 +44,25 @@ Any unit that has 3 stress tokens on it is at risk of fleeing the battlefield. A
 ### Height and Shooting
 
 Units that are at a higher height level than their target gain an additional 4 inches to their maximum range when making a ranged attack.
+
+# Module Rules
+
+## Magic
+
+Magic is an essential part of Realms of Arcana and **Spells** are a new type of **Ability** that require the model to have the **Mage (X)** special rule. Unlike normal abilities these models are allowed to choose a number of Spells when the player creates their army list. Each activation the Mage may choose one of their Spells to use. Spells still count as an ability and are still subject to the one ability per activation limit.
+
+To use a spell a Mage must take a **Magic Test** to successfully use the action, refer to the Mage special rule below for details.
+
+## New Special Rules
+
+### Mage (X)
+
+This model may use Spells and attempt to Counterspell enemy Mages.
+
+#### Magic Test
+
+When attempting to use a Spell the model must make a successful **magic test**, rolling a D12 and comparing it to the value of X following the same rules for skill tests. A roll of a 1 on a Magic Test causes the ability to fail and the model automatically loses 1 hit point and gains 1 stress token.
+
+#### Counterspell
+
+If a model with the psyker special rule is within 12 inches of any enemy psyker they suffer a -2 modifier to their psyker test.
